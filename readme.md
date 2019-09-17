@@ -41,7 +41,7 @@ package couponcode_test
 import (
 	"fmt"
 
-	"github.com/captaincodeman/couponcode"
+	"github.com/stryd/couponcode"
 )
 
 func main() {
